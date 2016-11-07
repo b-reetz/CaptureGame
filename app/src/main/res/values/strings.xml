@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Project204</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_start_screen">StartScreen</string>
+
+    <string-array name="difficultyLevel">
+        <item>Kitten</item>
+        <item>House Cat</item>
+        <item>Tomcat</item>
+        <item>Alley Cat</item>
+    </string-array>
+
+
+    <color name="red">#FFB3BA</color>
+    <color name="yellow">#FFFFBA</color>
+    <color name="green">#BAFFC9</color>
+    <color name="blue">#BAE1FF</color>
+    <color name="orange">#FFDFBA</color>
+
+    <array name="rainbow">
+        <item>@color/red</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+        <item>@color/blue</item>
+        <item>@color/orange</item>
+    </array>
+
+    <string name="title_activity_game_over">GameOver</string>
+
+    <string name="hello_world">Hello world!</string>
+
+</resources>
